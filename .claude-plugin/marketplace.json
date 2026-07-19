@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "maestro",
+  "description": "Tech-lead orchestration for Claude Code. The expensive model decides, the cheap models type.",
+  "owner": {
+    "name": "zamena1985",
+    "url": "https://github.com/zamena1985"
+  },
+  "plugins": [
+    {
+      "name": "maestro",
+      "description": "Turns your top-tier model into a tech lead: it keeps decomposition, architecture and final synthesis, delegating lookups to a Haiku scout, mechanical work to a Sonnet fast-worker and long investigations to a read-only deep-reasoner (Sonnet by default, Opus on demand).",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

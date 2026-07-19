@@ -1,0 +1,9 @@
+{
+  "name": "maestro",
+  "version": "1.0.0",
+  "description": "Tech-lead orchestration mode: the top-tier model keeps architecture and decisions; a three-tier bench of cheaper subagents (Haiku scout, Sonnet fast-worker, Sonnet/Opus deep-reasoner) does the routine and the digging. Save tokens without losing quality.",
+  "author": {
+    "name": "zamena1985",
+    "url": "https://github.com/zamena1985"
+  }
+}
